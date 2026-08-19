@@ -1,0 +1,7 @@
+<html>
+Converting a String to uppercase <%= new String("Hello World ! from Debanjan").toUpperCase() %>
+<br></br>
+25 multiplied by 4 equals <%= 25*4 %>
+<br></br>
+Is 75 less than 69 <%= 75 < 69 %>
+</html>
